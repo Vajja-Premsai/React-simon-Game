@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/React-simon-Game/static/css/main.c078b75b.css",
+    "main.js": "/React-simon-Game/static/js/main.d5a20f70.js",
+    "static/media/green.mp3": "/React-simon-Game/static/media/green.bb7cfbf2f804efc7cc38.mp3",
+    "static/media/red.mp3": "/React-simon-Game/static/media/red.cda1b21ae7cfb8bc5f8b.mp3",
+    "static/media/yellow.mp3": "/React-simon-Game/static/media/yellow.ea398e3ee263b328f564.mp3",
+    "static/media/wrong.mp3": "/React-simon-Game/static/media/wrong.09270cc34fb672dfee40.mp3",
+    "static/media/blue.mp3": "/React-simon-Game/static/media/blue.0407f8865464d427dc9a.mp3",
+    "index.html": "/React-simon-Game/index.html",
+    "main.c078b75b.css.map": "/React-simon-Game/static/css/main.c078b75b.css.map",
+    "main.d5a20f70.js.map": "/React-simon-Game/static/js/main.d5a20f70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c078b75b.css",
+    "static/js/main.d5a20f70.js"
+  ]
+}
