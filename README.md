@@ -2,6 +2,12 @@
 
 This project is built using React Js and Tailwind CSS.
 view this project at  https://github.com/Vajja-Premsai/React-simon-Game
+# React Simon Game Live |||
+
+[![Deployed Site](https://img.shields.io/badge/View%20Live%20Site-React%20Simon%20Game-blue)](https://vajja-premsai.github.io/React-simon-Game/)
+
+Description of your project goes here.
+
 
 ## Getting Started with the project :
 * Fork this Repository.
