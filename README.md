@@ -1,11 +1,11 @@
 # Simon Game
 
 This project is built using React Js and Tailwind CSS.
-view this project at  https://dhawal-793.github.io/Simon-Game/ 
+view this project at  https://github.com/Vajja-Premsai/React-simon-Game
 
 ## Getting Started with the project :
 * Fork this Repository.
-* Clone this project to your Local Environment using `git clone https://github.com/dhawal-793/Simon-Game.git `
+* Clone this project to your Local Environment using `git clone https://github.com/Vajja-Premsai/React-simon-Game `
 * Install Node Js on your Local System (https://nodejs.org/en/download/), download according to your syaytem (I prefer LTS version).
 * Open the root directorie using your editor or cd into it using command line.
 * In the root directorie run command ` npm i ` to install all the necessary dependencies.
@@ -20,7 +20,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000/Simon-Game](http://localhost:3000) to view it in your browser.
+Open [http://localhost:3000/React-simon-Game](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
