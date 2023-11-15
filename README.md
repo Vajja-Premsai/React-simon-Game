@@ -34,24 +34,28 @@ React Simon Game is a digital adaptation of the classic memory game. It leverage
 
 ```bash
 git clone https://github.com/Vajja-Premsai/react-simon-game.git
+```
 
-### Install dependencies:
-
+Install dependencies:
+```bash
 npm install
-###  Start the development server:
+```
+Start the development server
+```
 npm start
-<p><b>How to Play</b>
-Launch the game by navigating to the provided URL.
-Follow the on-screen instructions to start the game.
-Repeat the sequence of colors and sounds as accurately as possible.
-The game will progressively increase in difficulty as you succeed.
+```
+### How to Play
+-Launch the game by navigating to the provided URL.
+-Follow the on-screen instructions to start the game.
+-Repeat the sequence of colors and sounds as accurately as possible.
+-The game will progressively increase in difficulty as you succeed.
 Contributing
-Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
+-Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
 
-<b>Fork the repository<b>
-Create a new branch (git checkout -b feature/new-feature)
-Make changes and commit (git commit -am 'Add new feature')
-Push to the branch (git push origin feature/new-feature)
-Create a pull request
-Please make sure to follow the Code of Conduct.
-</p>
+### Fork the repository
+-Create a new branch (git checkout -b feature/new-feature)
+-Make changes and commit (git commit -am 'Add new feature')
+-Push to the branch (git push origin feature/new-feature)
+-Create a pull request
+
+
