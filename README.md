@@ -1,65 +1,52 @@
-# React Simon Game
+# Simon Game
 
-A classic Simon game built with React and React Scripts. Test and enhance your memory and pattern recognition skills in this interactive web-based version of the timeless Simon game.
+This project is built using React Js and Tailwind CSS.
+view this project at  https://dhawal-793.github.io/Simon-Game/ 
 
-## Table of Contents
-
-- [Description](#description)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [How to Play](#how-to-play)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Description
-
-React Simon Game is a digital adaptation of the classic memory game. It leverages the power and flexibility of React and React Scripts to provide an engaging and visually appealing user experience.
-
-## Features
-
-- Responsive and intuitive React-based user interface
-- Randomly generated color and sound sequences
-- Progressive difficulty levels to challenge players
-- Score tracking to monitor and improve performance
-
-## Getting Started
-
-### Prerequisites
-
-- Ensure you have Node.js and npm installed on your machine.
-
-### Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/Vajja-Premsai/react-simon-game.git
-```
-
-Install dependencies:
-```bash
-npm install
-```
-Start the development server
-```
-npm start
-```
-### How to Play
+## Getting Started with the project :
+* Fork this Repository.
+* Clone this project to your Local Environment using `git clone https://github.com/dhawal-793/Simon-Game.git `
+* Install Node Js on your Local System (https://nodejs.org/en/download/), download according to your syaytem (I prefer LTS version).
+* Open the root directorie using your editor or cd into it using command line.
+* In the root directorie run command ` npm i ` to install all the necessary dependencies.
+* After Installing all the dependencies run this command to start the project `npm run start` or `npm start`
+* Access the project at "http://localhost:3000/Simon-Game"
 
 
-- Launch the game by navigating to the provided URL.
-- Follow the on-screen instructions to start the game.
-- Repeat the sequence of colors and sounds as accurately as possible.
-- The game will progressively increase in difficulty as you succeed.
-Contributing
-- Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
+## Available Scripts
 
-### Fork the repository
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000/Simon-Game](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 
-- Create a new branch (git checkout -b feature/new-feature)
-- Make changes and commit (git commit -am 'Add new feature')
-- Push to the branch (git push origin feature/new-feature)
-- Create a pull request
+### `npm run eject`
 
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
